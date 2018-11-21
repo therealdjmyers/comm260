@@ -1,0 +1,35 @@
+h1 {
+	font-size: 48px;	
+}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;	
+	text-align: center;
+}
+#main-nav	{
+	font-size: 1.3em;	
+	line-height: 1.4em;
+}
+blockquote	{
+	color: #33ccff;
+	font-size: 1.3em;
+	font-style: italic;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
