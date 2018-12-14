@@ -1,0 +1,71 @@
+box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    line-height: 1.4rem;
+    font-family: 'Roboto';
+    background-image: url("img/bg");
+background-repeat: repeat;
+
+
+}
+img {
+
+    max-width: 100%;
+ padding-top: 1px;
+ padding-right:1px;
+ padding-bottom:1px;
+ padding-left:1px;
+    S
+}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+    
+}
+
+nav{
+    float:right;
+    column-count: 4
+
+}
+main{
+width: auto;
+height: auto;
+border: 1px solid #c3c3c3;
+
+
+}
+.SupremeTonyMontanaShirt{
+
+width: 400px;
+    padding:10px;
+    float:left;
+
+}
+/*
+.TommyHilfigerHat{
+    
+    width:240px;
+    padding:10px;
+    clear:right;
+
+    
+}
+*/
+
+
+/*
+.PoloTeddyShirt{
+    
+    width:240px;
+    padding:10px;
+    clear:right;
+    
+    
+    
+}
+*/
